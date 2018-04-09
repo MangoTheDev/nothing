@@ -1,0 +1,9 @@
+name: PyroShopUI
+main: ShopUI\Main
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11]
+version: 1.0
+author: MangoTheDev
+
+commands:
+ shop:
+  description: "Buy Items in a UI."
